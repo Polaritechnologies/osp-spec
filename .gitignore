@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+gateway/
+patch_osp_bridge.py
+.pytest_cache/
+*.egg-info/
+dist/
+build/
